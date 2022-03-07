@@ -7,6 +7,7 @@ my name is dongdong
  i am  from china
 
  i love you 
- oooooooooooo
- ooooooooooooooooo
+ sleep good
 
+ echo "hello world"
+ echo "good night"
